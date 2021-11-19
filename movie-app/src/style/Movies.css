@@ -1,0 +1,32 @@
+.movies-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 40px 50px 70px;
+    /* background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url('https://image.tmdb.org/t/p/original/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg'); */
+}
+
+.search-movies {
+    margin: 100px 70px 0;
+    display: flex;
+    align-items: center;
+}
+
+.search-movies input {
+    padding: 8px;
+}
+
+.movie-card {
+    width: 250px;
+    margin: 20px;
+}
+
+.movie-card img {
+    height: 350px;
+    width: 250px;
+    
+}
+
+.movie-card p {
+    color: rgba(255, 255, 255, 0.863);
+    margin: 10px;
+}

@@ -1,0 +1,71 @@
+.schedule-container {
+    margin: 80px 50px;
+    color: white;
+}
+
+.schedule-card {
+    display: flex;
+    margin: 20px;
+}
+
+.schedule-info {
+    margin: 20px;
+}
+
+.schedule-info h3 {
+    margin: 10px 0;
+}
+
+.schedule-info p {
+    margin: 5px 0;
+}
+
+.schedule-info span {
+    font-size: 30px;
+    vertical-align: -3px;
+}
+
+.red {
+    color: red;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.green {
+    color: green;
+}
+
+.no-date {
+    color: white;
+    margin: 30px;
+}
+
+.schedule-poster {
+    width: 150px;
+}
+
+.input-date {
+    display: flex;
+    margin: 20px;
+}
+
+.input-date p {
+    display: flex;
+    margin: 15px;
+}
+
+.date {
+    width: 300px;
+    padding: 10px;
+}
+
+.schedule-button {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.schedule-button:hover {
+    
+}
